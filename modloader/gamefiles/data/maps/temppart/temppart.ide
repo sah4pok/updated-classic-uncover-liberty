@@ -1,0 +1,135 @@
+objs
+315, fratehuge, frate, 1, 299, 0
+316, tunnel_section, railway, 1, 299, 0
+317, fshgtsbx_dstryd, fishfactory, 1, 299, 0
+318, fshgutsbox, fishfactory, 1, 299, 0
+319, railtracks, railwayg, 1, 299, 0
+320, shp_wlkway, boats, 1, 299, 0
+321, shp_boats2, boats, 1, 299, 0
+322, rail_platform, railway, 1, 299, 4
+323, billboard01, bigsign, 1, 299, 0
+324, billboard02, bigsign, 1, 299, 4
+325, carlift02, carpark, 1, 299, 0
+326, dumpster01, junk, 1, 299, 0
+327, vegcrate04, cardbox, 1, 299, 0
+328, vegcrate06, cardbox, 1, 299, 0
+329, vegcrate07, cardbox, 1, 299, 0
+330, carlift01, carpark, 1, 299, 0
+331, fishoildrum, fishfactory, 1, 299, 0
+332, Scffldng02top, bigsign, 1, 299, 0
+333, telgrphpole02, telegraph, 1, 299, 4
+334, towerflat, pjects, 1, 299, 0
+335, chimney01, metal, 1, 299, 0
+336, LODtowerflat, indust1, 1, 3000, 0
+337, iten_block01, italysht, 1, 299, 0
+338, iten_hoteltop, italysht, 1, 299, 0
+339, iten_block09, italysht, 1, 299, 0
+340, iten_urn01, indclub, 1, 299, 4
+341, ind_newtenement03, italysht, 1, 299, 0
+342, ind_newtenement02, italysht, 1, 299, 0
+343, ind_newtenement04, italysht, 1, 299, 0
+344, ind_newtenement01, italysht, 1, 299, 0
+345, door_fucked, wood, 1, 299, 0
+346, bombdoor, bombdoor, 1, 299, 0
+347, ind_newtenement07, italysht, 1, 299, 0
+348, LOD_newtenement03, indust1, 1, 3000, 0
+349, LOD_newtenement02, indust1, 1, 3000, 0
+350, spraydoor, indredlitblk2, 1, 299, 0
+351, salvatorpatiodr, salvatory, 1, 299, 4
+352, LOD_newtenement04, indust1, 1, 3000, 0
+353, LOD_newtenement01, indust1, 1, 3000, 0
+354, iten_details7, firescape, 1, 299, 4
+355, iten_chinatown2, chinabanner, 1, 299, 0
+356, iten_chinatown4, chinabanner, 1, 299, 0
+357, iten_chinatown38, indchinassrt, 1, 299, 0
+358, iten_garage01, garagewood, 1, 299, 0
+359, chinaledge2, indchinaredgreen, 1, 299, 0
+360, ch_pil_kb, indchinabuild, 1, 299, 0
+361, ch_btmflr_3_kb, indchinabuild, 1, 299, 0
+362, canopy_wht_kb, indchinabuild, 1, 299, 0
+363, canopy_grn_kb, indchinabuild, 1, 299, 0
+364, canopy_red_kb, indchinabuild, 1, 299, 0
+365, canopy_whtlrg_kb, indchinabuild, 1, 299, 0
+366, firescapa1, indchinablocks, 1, 299, 4
+367, f_escape_side1, fire_esc, 1, 299, 4
+368, grassyknoll2, generic, 1, 299, 0
+369, plnt_chimgrad, chimney, 1, 299, 0
+370, iten_windowbox, lititly, 1, 299, 0
+371, iten_balcony, lititly, 1, 299, 0
+372, iten_alleysteps, generic, 1, 299, 0
+373, iten_alleysteps03, generic, 1, 299, 0
+374, iten_washline01, washin, 1, 299, 4
+375, iten_washline02, washin, 1, 299, 4
+376, iten_box01, wall, 1, 299, 0
+377, iten_wall03, wall, 1, 299, 0
+378, iten_wall04, wall, 1, 299, 0
+379, iten_washline03, washin, 1, 299, 4
+380, iten_fern01, vege, 1, 299, 0
+381, flagsitaly, italyfalg, 1, 299, 0
+382, Mistydoor, pjs, 1, 299, 0
+383, LODn_block01, indust1, 1, 3000, 0
+384, LODn_hoteltop, indust1, 1, 3000, 0
+385, joeysdoor, door, 1, 299, 0
+386, eitballsdoor, door, 1, 299, 0
+387, glassfx4, generic, 1, 299, 0
+388, glassfx3, generic, 1, 299, 0
+389, glassfx2, generic, 1, 299, 0
+390, glassfx1, generic, 1, 299, 0
+391, bankjobdoor, door, 1, 299, 0
+392, hghwysgn01, roadsign, 1, 299, 4
+393, hghwysgn02, roadsign, 1, 299, 0
+394, glassfx55, generic, 1, 299, 0
+395, bankdoor, door, 1, 299, 0
+396, chinabanner3, chinabanner, 1, 299, 0
+397, chinabanner4, chinabanner, 1, 299, 0
+398, chinabanner1, chinabanner, 1, 299, 0
+399, chinabanner2, chinabanner, 1, 299, 0
+400, convstre_dmge01, unclebj, 1, 299, 0
+401, salvatordoor, door, 1, 299, 0
+402, IslandLODsubCOM, islandLODsubCOM, 1, 3000, 0
+403, IslandLODsubIND, islandcomind, 1, 3000, 0
+404, IslandLODcomSUB, islandcomsub, 1, 3000, 0
+405, IslandLODInd, islandlodind, 1, 3000, 0
+406, policeballdoor, fuzzball, 1, 299, 0
+407, dogfoodoor01, dogfood, 1, 299, 0
+408, convstore01, unclebj, 1, 299, 0
+409, iten_block06, italysht, 1, 299, 0
+410, LODn_block06, indust2, 1, 3000, 0
+411, LOD_newtenement07, indust1, 1, 3000, 0
+412, chinalanterns, chinabanner, 1, 299, 0
+413, LODn_garage01, indust2, 1, 3000, 0
+414, LODn_block09, indust2, 1, 3000, 0
+415, convstore01_door, unclebj, 1, 299, 0
+416, IslandLODcomIND, islandcomind, 1, 3000, 2
+417, ind_jetnoside02, indpier, 2, 299, 500, 0
+418, fshfctry_dstryd, fishfactory, 2, 299, 400, 0
+419, fishfctory, fishfactory, 2, 299, 400, 0
+420, railtrax_straight, railway, 2, 299, 400, 4
+421, railtrax_bentl, railway, 2, 299, 400, 4
+422, railtrax_skew, railway, 2, 299, 400, 4
+423, railtrax_strtshort, railway, 2, 299, 400, 4
+424, railtrax_2b, railway, 2, 299, 400, 4
+425, railtrax_straightss, railway, 2, 299, 400, 4
+426, railtrax_bentr, railway, 2, 299, 400, 4
+427, railtrax_skew5, railway, 2, 299, 400, 4
+428, railtrax_bentrb, railway, 2, 299, 400, 4
+429, railtrax_skewp, railway, 2, 299, 400, 4
+430, railtrax_ske2b, railway, 2, 299, 400, 4
+431, railtrax_lo4b, railway, 2, 299, 400, 0
+432, com_bridgesign, combridgesign, 1, 299, 0
+end
+tobj
+end
+path
+end
+2dfx
+323, 1.48328, 2.50085, 4.13649, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+323, 1.48328, 0.00216675, 4.13649, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+323, 1.48328, -2.49576, 4.13649, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+323, -1.48254, 2.50024, 4.13649, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+323, -1.48254, -0.00265503, 4.13649, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+323, -1.48254, -2.49075, 4.13649, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+412, -0.0785522, -0.584106, -2.94557, 255, 42, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+412, -0.165771, 3.80017, -2.69142, 255, 42, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+412, -0.0785522, -4.84772, -2.56063, 255, 42, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+end

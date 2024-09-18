@@ -1,0 +1,142 @@
+objs
+433, towerflat_uc, sub_projects, 1, 299, 0
+607, dr_newwires01, nipple, 1, 299, 4
+608, dr_newwires02, nipple, 1, 299, 4
+609, dr_newwires03, nipple, 1, 299, 4
+726, dr_newwires04, nipple, 1, 299, 4
+727, jm_gambledenb, jm_gambling, 1, 299, 4
+728, dr_newwires06, nipple, 1, 299, 4
+729, dr_newwires07, nipple, 1, 299, 4
+856, dr_newwires08, nipple, 1, 299, 4
+857, dr_newwires09, nipple, 1, 299, 4
+858, dr_newwires10, nipple, 1, 299, 4
+859, dr_newwires11, nipple, 1, 299, 4
+860, dr_newwires12, nipple, 1, 299, 4
+861, dr_newwires13, nipple, 1, 299, 4
+862, dr_newwires14, nipple, 1, 299, 4
+863, dr_newwires15, nipple, 1, 299, 4
+864, dr_fidlsign, indsupasave, 1, 299, 0
+2339, lowerfence, lighthouse, 1, 299, 4
+2681, lighthouse_gate, lighthouse, 1, 299, 4
+2683, uc_newtenement, italysht, 1, 299, 0
+3178, lampost_ssv, dynsigns, 2, 299, 53, 0
+3179, iz_tunneller, iz_tunnler, 1, 299, 0
+3180, iz_tunneller02, iz_tunnler, 1, 299, 0
+3181, dr_comwires01, nipple, 1, 299, 0
+3182, dr_comwires02, nipple, 1, 299, 0
+3183, dr_comwires03, nipple, 1, 299, 0
+3184, dr_comwires04, nipple, 1, 299, 0
+3185, jm_kiosk, jm_kiosk2, 1, 299, 0
+3186, dr_subwire03, nipple, 1, 299, 4
+3187, dr_subwire02, nipple, 1, 299, 4
+3188, dr_subwire01, nipple, 1, 299, 4
+3189, dr_subwire08, nipple, 1, 299, 4
+3190, dr_subwire07, nipple, 1, 299, 4
+3191, dr_subwire06, nipple, 1, 299, 4
+3192, dr_subwire05, nipple, 1, 299, 4
+3193, dr_subwire04, nipple, 1, 299, 4
+3194, dr_subwire09, nipple, 1, 299, 4
+3195, dr_subwire10, nipple, 1, 299, 4
+3196, dr_subwire11, nipple, 1, 299, 4
+3197, dr_subwire12, nipple, 1, 299, 4
+3198, dr_subwire13, nipple, 1, 299, 4 
+3199, rooftopjump, subind26, 1, 299, 0
+3200, rooftopjump01, subind26, 1, 299, 0
+3201, SJL_Rock_01, sjl_rock, 1, 299, 0
+3202, SJL_Rock_02, sjl_rock, 1, 299, 0
+3203, SJL_Rock_03, sjl_rock, 1, 299, 0
+3204, SJL_Rock_04, sjl_rock, 1, 299, 0
+3205, com_park3alp, compark, 1, 299, 4
+3206, PC_Garage, sub_villas, 1, 299, 0
+3207, PC_Garage_Door, projbits, 1, 299, 0
+3208, uc_stand_veg, generic, 1, 299, 0
+3209, NewShad27, trackshad, 1, 299, 68
+3210, uc_stand_veg_wood, generic, 1, 299, 0
+3211, dr_wheeliebinA, dr_wheelie, 1, 299, 128
+3212, dr_wheeliebinB, dr_wheelie, 1, 299, 128
+3213, dr_binbag, dr_binnbagg, 1, 299, 0
+3214, uc_stadium_lamp, comstadium, 1, 3000, 0
+3216, Clnm_stadium1, comstadium, 1, 299, 0
+3217, Clnm_stadium2, comstadium, 1, 299, 0
+3218, Clnm_stadium3, comstadium, 1, 299, 0
+3219, stadium_glass, comstadium, 1, 299, 4
+3220, stadium_glass2, comstadium, 1, 299, 4
+3221, uc_luigi_bord, luigiclub, 1, 299, 6
+3222, va_uc_dam_road1, generic, 1, 299, 4
+3223, va_uc_junction, generic, 1, 299, 4
+3224, LODkpatch03, lod_rocky, 1, 3000, 0
+3225, LODkpatch1, lod_rocky, 1, 3000, 0
+3226, va_uc_custm_rd1, generic, 1, 299, 4
+3227, va_uc_custm_rd2, generic, 1, 299, 4
+3228, powerblock, powerblock, 1, 299, 0
+# Free IDs: up to 3250
+3500, plc_stinger, plc_stinger, 1, 299, 0
+end
+tobj
+434, tobj_hh_uc, towerlights, 1, 3000, 12, 19, 5
+2682, lc_inwindows11, newwindowlit, 1, 3000, 76, 20, 4
+2684, lc_indwindows2, newwindowlit, 1, 3000, 76, 20, 4
+3153, lc_indwindows3, newwindowlit, 1, 3000, 76, 20, 4
+3154, lc_indwindows4, newwindowlit, 1, 3000, 76, 20, 4
+3155, lc_indwindows5, newwindowlit, 1, 3000, 76, 20, 4
+3156, lc_indwindows6, newwindowlit, 1, 3000, 76, 20, 4
+3157, lc_indwindows7, newwindowlit, 1, 3000, 76, 20, 4
+3158, lc_indwindows8, newwindowlit, 1, 3000, 76, 20, 4
+3159, lc_indwindows9, newwindowlit, 1, 3000, 76, 20, 4
+3160, lc_indwindows10, newwindowlit, 1, 3000, 76, 20, 4
+3161, lc_indwindows11, newwindowlit, 1, 3000, 76, 20, 4
+3162, lc_indwindows12, newwindowlit, 1, 3000, 76, 20, 4
+3163, lc_indwindows13, newwindowlit, 1, 3000, 76, 20, 4
+3164, lc_indwindows14, newwindowlit, 1, 3000, 76, 20, 4
+3165, lc_indwindows15, newwindowlit, 1, 3000, 76, 20, 4
+3166, lc_indwindows16, newwindowlit, 1, 3000, 76, 20, 4
+3168, lc_inwindows12, newwindowlit, 1, 3000, 76, 20, 4
+3169, lc_inwindows13, newwindowlit, 1, 3000, 76, 20, 4
+3170, lc_inwindows14, newwindowlit, 1, 3000, 76, 20, 4
+3171, lc_inwindows15, newwindowlit, 1, 3000, 76, 20, 4
+3172, lc_inwindows16, newwindowlit, 1, 3000, 76, 20, 4
+3173, lc_indwindows18, newwindowlit, 1, 3000, 76, 20, 4
+3175, lc_indwindows20, newwindowlit, 1, 3000, 76, 19, 22
+3176, lc_indwindows21, newwindowlit, 1, 3000, 76, 19, 22
+3177, lc_inwindows17, newwindowlit, 1, 3000, 76, 20, 4
+3215, lc_indwindows17, newwindowlit, 1, 3000, 76, 20, 4
+#, libcoc_nt, comstadium, 1, 299, 0, 20, 4
+#, libcoc_dy, comstadium, 1, 299, 0, 4, 20
+end
+2dfx
+# Portland
+255, 12.903, -2.692, -2.14, 200, 200, 200, 153, 0, "coronastar", "shad_exp", 100, 0, 1.8, 0, 40, 1, 0, 0, 0
+255, 16.476, -4.959, -10.02, 130, 154, 154, 200, 0, "coronastar", "shad_exp", 100, 0, 0, 0, 40, 1, 0, 0, 4
+255, 18.117, -0.561, -10.02, 130, 154, 154, 200, 0, "coronastar", "shad_exp", 100, 0, 0, 0, 40, 1, 0, 0, 4
+255, 16.786, 5.92, -9.781, 130, 154, 154, 200, 0, "coronastar", "shad_exp", 100, 0, 0, 0, 40, 1, 0, 0, 4
+447, -1.18, 5.986, -6.378, 102, 102, 97, 153, 0, "coronastar", "shad_exp", 100, 0, 1.2, 0, 40, 1, 0, 0, 0
+447, 8.681, 6.039, -4.262, 102, 102, 97, 153, 0, "coronastar", "shad_exp", 100, 0, 1.2, 0, 40, 1, 0, 0, 0
+447, 19.544, 6.039, -1.853, 102, 102, 97, 153, 0, "coronastar", "shad_exp", 100, 0, 1.2, 0, 40, 1, 0, 0, 0
+518, 8.339, -3.849, 2.729, 102, 102, 97, 153, 0, "coronastar", "shad_exp", 100, 0, 1.2, 0, 40, 1, 0, 0, 0
+518, 8.339, -0.062, 2.729, 102, 102, 97, 153, 0, "coronastar", "shad_exp", 100, 0, 1.2, 0, 40, 1, 0, 0, 0
+518, -1.635, 11.832, 2.711, 102, 102, 97, 153, 0, "coronastar", "shad_exp", 100, 0, 1.2, 0, 40, 1, 0, 0, 0
+518, -5.413, 11.832, 2.711, 102, 102, 97, 153, 0, "coronastar", "shad_exp", 100, 0, 1.2, 0, 40, 1, 0, 0, 0
+518, 8.321, -17.396, 3.035, 21, 66, 19, 153, 0, "coronastar", "shad_exp", 100, 0, 1.2, 4, 80, 0, 0, 0, 0
+518, -15.133, 4.752, 3.019, 21, 66, 19, 153, 0, "coronastar", "shad_exp", 100, 0, 1.2, 4, 80, 0, 0, 0, 0
+529, -22.425, 2.611, -1.642, 130, 154, 154, 200, 0, "coronastar", "shad_exp", 100, 0, 0, 0, 40, 1, 0, 0, 4
+529, -25.261, -0.077, -1.978, 130, 154, 154, 200, 0, "coronastar", "shad_exp", 100, 0, 0, 0, 40, 1, 0, 0, 4
+529, 30.352, -14.102, 8.498, 130, 154, 154, 200, 0, "coronastar", "shad_exp", 100, 0, 0, 0, 40, 1, 0, 0, 4
+529, 30.547, -11.125, 7.218, 130, 154, 154, 200, 0, "coronastar", "shad_exp", 100, 0, 0, 0, 40, 1, 0, 0, 4
+530, 11.412, 2.628, -2.858, 181, 137, 68, 153, 0, "coronastar", "shad_exp", 100, 0, 1.5, 0, 40, 1, 0, 0, 0
+530, 10.927, -8.086, -3.794, 255, 255, 255, 100, 1, 0, -0.005, -1.93715e-009, 5.96046e-010, 0.2
+# Shoreside
+3178, 0.647, 0.001, 1.493, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 150, 18, 1, 8, 40, 1, 0, 0, 0
+# Staunton - Stadium
+3214, -3.386, 9.24, 11.363, 225, 227, 152, 150, 0, "coronastar", "shad_exp", 500, 0, 6.0, 0, 40, 1, 0, 0, 0
+3214, -3.409, 2.905, 11.363, 225, 227, 152, 150, 0, "coronastar", "shad_exp", 500, 0, 6.0, 0, 40, 1, 0, 0, 0
+3214, -3.386, 9.24, 5.257, 225, 227, 152, 150, 0, "coronastar", "shad_exp", 500, 0, 6.0, 0, 40, 1, 0, 0, 0
+3214, -3.409, 2.905, 5.257, 225, 227, 152, 150, 0, "coronastar", "shad_exp", 500, 0, 6.0, 0, 40, 1, 0, 0, 0
+3214, -3.386, 9.24, -0.946, 225, 227, 152, 150, 0, "coronastar", "shad_exp", 500, 0, 6.0, 0, 40, 1, 0, 0, 0
+3214, -3.409, 2.905, -0.946, 225, 227, 152, 150, 0, "coronastar", "shad_exp", 500, 0, 6.0, 0, 40, 1, 0, 0, 0
+3214, -3.639, -2.071, 11.363, 225, 227, 152, 150, 0, "coronastar", "shad_exp", 500, 0, 6.0, 0, 40, 1, 0, 0, 0
+3214, -3.662, -8.405, 11.363, 225, 227, 152, 150, 0, "coronastar", "shad_exp", 500, 0, 6.0, 0, 40, 1, 0, 0, 0
+3214, -3.639, -2.071, 5.257, 225, 227, 152, 150, 0, "coronastar", "shad_exp", 500, 0, 6.0, 0, 40, 1, 0, 0, 0
+3214, -3.662, -8.405, 5.257, 225, 227, 152, 150, 0, "coronastar", "shad_exp", 500, 0, 6.0, 0, 40, 1, 0, 0, 0
+3214, -3.639, -2.071, -0.946, 225, 227, 152, 150, 0, "coronastar", "shad_exp", 500, 0, 6.0, 0, 40, 1, 0, 0, 0
+3214, -3.662, -8.405, -0.946, 225, 227, 152, 150, 0, "coronastar", "shad_exp", 500, 0, 6.0, 0, 40, 1, 0, 0, 0
+end

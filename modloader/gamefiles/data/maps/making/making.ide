@@ -1,0 +1,66 @@
+objs
+865, dockcranescale, doccrane, 1, 299, 4
+866, mak_fratea, frate, 1, 299, 0
+867, mak_frateb, frate, 1, 299, 0
+868, mak_fratec, frate, 1, 299, 0
+869, mak_billboard, billboard, 1, 299, 0
+870, mak_Watertank, watertower, 1, 299, 0
+871, mak_ventchim, pipes, 1, 299, 0
+872, pipe2, pipes, 1, 299, 0
+873, junk_tyre_pilebig, tyres, 1, 299, 0
+874, junk_tyre_pilemid, tyres, 1, 299, 0
+875, junk_bit5, rubbish, 1, 299, 0
+876, junk_bit6, rubbish, 1, 299, 0
+877, car_fucko, fuckedcar, 1, 299, 0
+878, fuckedup_skewlbus, schoolbus, 1, 299, 0
+879, lofucked_car, fuckedcar, 1, 299, 0
+880, mak_billsmall, billboard, 1, 299, 0
+881, warehouse1z, warehouses, 1, 299, 0
+882, cranetopb, generic, 1, 2000, 4
+883, cranetopa, generic, 1, 2000, 4
+884, doc_shedwee1, warehouse, 1, 299, 0
+885, fuel8, dockvats, 1, 299, 0
+886, fuel3, dockvats, 1, 299, 0
+887, doc_floodlite, docklight, 1, 299, 0
+888, doc_shedwkway, dockbit, 1, 299, 0
+889, trainsleeper, trainyard, 1, 299, 0
+890, train_rust, trainyard, 1, 299, 4
+891, cranesmalltop, generic, 1, 299, 4
+892, doc_crane_leggs, doccrane, 1, 299, 4
+893, doc_crane_cab, doccrane, 1, 299, 4
+894, mak_Watertank2, watertower, 1, 299, 0
+895, mak_Watertank3, watertower, 1, 299, 0
+896, LOD_shedwee1, indust1, 1, 3000, 0
+897, LODehouse1z, indust1, 1, 3000, 0
+898, plnt_pylon01, pylon, 1, 299, 4
+899, junk_tyre_cubewee, tyrestack, 1, 299, 0
+900, junk_tyre_cubebig, tyrestack, 1, 299, 0
+901, junk_tyre_cubemid, tyrestack, 1, 299, 0
+902, LODkcranescale, indust1, 1, 3000, 0
+903, salvs_door1, frankiesbase, 1, 299, 0
+904, salvs_door2, frankiesbase, 1, 299, 0
+end
+tobj
+end
+path
+end
+2dfx
+869, -6.55882, -2.01803, 8.68284, 255, 203, 49, 200, 0, "coronastar", "shad_exp", 300, 18, 2, 8, 40, 1, 0, 0, 0
+869, -0.0464973, -2.01803, 8.68284, 255, 203, 49, 200, 0, "coronastar", "shad_exp", 300, 18, 2, 8, 40, 1, 0, 0, 0
+869, 6.46583, -2.01803, 8.68284, 255, 203, 49, 200, 0, "coronastar", "shad_exp", 300, 18, 2, 8, 40, 1, 0, 0, 0
+880, -4.01785, -1.07385, 5.18549, 255, 203, 49, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 0, 1, 0, 0, 0
+880, -0.0276794, -0.896, 5.18549, 255, 203, 49, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 0, 1, 0, 0, 0
+880, 3.94236, -1.10996, 5.18549, 255, 203, 49, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 0, 1, 0, 0, 0
+#
+882, 81.716, 1.269, 3.738, 100, 0, 0, 200, 0, "coronastar", "shad_exp", 900, 0, 5.0, 0, 40, 1, 0, 0, 0
+882, -1.713, 1.269, 28.745, 100, 0, 0, 200, 0, "coronastar", "shad_exp", 900, 0, 4.0, 0, 40, 1, 0, 0, 0
+882, -26.664, 1.269, 5.241, 100, 0, 0, 200, 0, "coronastar", "shad_exp", 900, 0, 4.0, 0, 40, 1, 0, 0, 0
+883, 111.213, 1.269, 3.738, 100, 0, 0, 200, 0, "coronastar", "shad_exp", 900, 0, 4.0, 0, 40, 1, 0, 0, 0
+883, -1.713, 1.269, 28.745, 100, 0, 0, 200, 0, "coronastar", "shad_exp", 900, 0, 4.0, 0, 40, 1, 0, 0, 0
+883, -26.664, 1.269, 5.241, 100, 0, 0, 200, 0, "coronastar", "shad_exp", 900, 0, 4.0, 0, 40, 1, 0, 0, 0
+#
+887, 1.5289, 0.101044, 13.8858, 255, 255, 255, 200, 0, "corona", "shad_exp", 300, 18, 2.5, 8, 40, 1, 0, 0, 0
+887, -1.5289, 0.101044, 13.8858, 255, 255, 255, 200, 0, "corona", "shad_exp", 300, 18, 2.5, 8, 40, 1, 0, 0, 0
+891, -11.8579, 1.82257, -1.19453, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+891, -11.8579, -0.978333, -1.19453, 31, 214, 35, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+end

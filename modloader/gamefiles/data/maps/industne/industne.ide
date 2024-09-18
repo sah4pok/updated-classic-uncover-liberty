@@ -1,0 +1,291 @@
+objs
+435, iten_block07, inditaly1, 1, 299, 0
+436, iten_club01, Italynrth, 1, 299, 0
+437, iten_baker01, inditaly1, 1, 299, 0
+438, iten_singbuild02, Italynrth, 1, 299, 0
+439, indhibuild1, Italynrth, 1, 299, 0
+440, ind_mainten2, maindragn, 1, 299, 0
+441, ind_newbuilds07, inditaly1, 1, 299, 0
+442, ind_newbuilds06, inditaly1, 1, 299, 0
+443, ind_newbuilds03, inditaly1, 1, 299, 0
+444, ind_newbuilds02, Italynrth, 1, 299, 0
+445, ind_newtenement08, inditaly1, 1, 299, 0
+446, ind_newtenement05, inditaly1, 1, 299, 0
+447, ind_newtenement06, italymisc, 1, 299, 4
+448, building_fucked, italymisc, 1, 299, 4
+449, ind_land154, italyeast, 1, 299, 0
+450, ind_land120, generic, 1, 299, 0
+451, ind_land116, inditaly1, 1, 299, 0
+452, ind_land111, generic, 1, 299, 0
+453, ind_land100, Italynrth, 1, 299, 0
+454, ind_land097, italymisc, 1, 299, 4
+455, ind_land068, inditaly1, 1, 299, 0
+456, ind_land067, generic, 1, 299, 0
+457, ind_land065, Italynrth, 1, 299, 0
+458, ind_land063i, italyeast, 1, 299, 0
+459, ind_land059, italyeast, 1, 299, 0
+460, ind_land058, indbeach, 1, 299, 0
+461, ind_land057, indbeach, 1, 299, 0
+462, ind_land054, indjunk, 1, 299, 0
+463, ind_land037, 8balls, 1, 299, 4
+464, ind_land033, beach, 1, 299, 0
+465, ind_land025, generic, 1, 299, 0
+466, ind_land034, Italynrth, 1, 299, 0
+467, fire_platform, petrol, 1, 299, 0
+468, firegrass, generic, 1, 299, 0
+469, petrolstation, petrol, 1, 299, 0
+470, ind_land155, italyeast, 1, 299, 0
+471, factoryf_walls1, petrol, 1, 299, 0
+472, ind_mainten1, inditaly1, 1, 299, 0
+473, ind_mainten3, maindragn, 1, 299, 4
+474, junk_tyre_cubeteeny, indjunk, 1, 299, 0
+475, wire_shed, indjunk, 1, 299, 0
+476, back_box, indjunk, 1, 299, 0
+477, railtracks_join, 8balls, 1, 299, 0
+478, ind_newtenementx, inditaly1, 1, 299, 4
+479, ind_mainten2b, inditaly1, 1, 299, 0
+480, indbigbuild, inditaly1, 1, 299, 0
+481, iten_alleygun, indalley, 1, 299, 0
+482, iten3block, inditaly1, 1, 299, 0
+483, LOD_tendragblk2, indust2, 1, 3000, 0
+484, LOD_newbuilds02, indust2, 1, 3000, 0
+485, LOD_newbuilds01, indust2, 1, 3000, 0
+486, LOD_land037, indust2, 1, 3000, 0
+487, LOD_land089c, indust2, 1, 3000, 0
+488, LOD_land111, indust2, 1, 3000, 0
+489, LOD_land025, indust2, 1, 3000, 0
+490, LOD_land154, indust2, 1, 3000, 0
+491, LOD_land054, indust2, 1, 3000, 0
+492, LOD_land038, indust2, 1, 3000, 0
+493, LOD_newbuilds03, indust2, 1, 3000, 0
+494, LOD_mainten3, indust2, 1, 3000, 0
+495, LOD_mainten2, indust2, 1, 3000, 0
+496, LOD_mainten1, indust2, 1, 3000, 0
+497, LOD_newbuilds06, indust2, 1, 3000, 0
+498, LOD_newbuilds07, indust2, 1, 3000, 0
+499, LOD_newtenement05, indust2, 1, 3000, 0
+500, LOD_mainten2b, indust2, 1, 3000, 0
+501, LODtoryf_walls1, indust2, 1, 3000, 0
+502, crushertop, indjunk, 1, 299, 0
+503, crushercrush, indjunk, 1, 299, 0
+504, LOD_land063, indust2, 1, 3000, 0
+505, ind_land038, 8balls, 1, 299, 0
+506, LODn_baker01, indust2, 1, 3000, 0
+507, ind_fuckedroad, generic, 1, 299, 0
+508, LODrolstation, indust2, 1, 3000, 0
+509, LOD_land069, indust2, 1, 3000, 0
+510, indNcoast1, generic, 1, 299, 0
+511, indNcoast2, generic, 1, 299, 0
+512, indNcoast3, generic, 1, 299, 0
+513, LODNcoast3, indust2, 1, 3000, 0
+514, LODNcoast2, indust2, 1, 3000, 0
+515, LODNcoast1, indust2, 1, 3000, 0
+516, LOD_land155, indust2, 1, 3000, 0
+517, LODnksclbase, indust2, 1, 3000, 0
+518, indhibuild4, Italynrth, 1, 299, 0
+519, indhibuild5, Italynrth, 1, 299, 0
+520, ser_firetower, petrol, 1, 299, 0
+521, usdcrdlrbuild01, 8balls, 1, 299, 0
+522, LODlding_fucked, indust2, 1, 3000, 0
+523, ind_land131, lighthouse, 1, 299, 4
+524, mak_semtech, 8balls, 1, 299, 0
+525, LOD_semtech, indust2, 1, 3000, 0
+526, mak_bomb01, 8balls, 1, 299, 0
+527, LOD_bomb01, indust2, 1, 3000, 0
+528, toplandit, italymisc, 1, 299, 0
+529, indbakland, italymisc, 1, 299, 4
+530, ind_newrizzos, tonys, 1, 299, 4
+531, cs8_door, 8balls, 1, 299, 0
+532, franksclbase, frankiesbase, 1, 299, 0
+533, swank_inside, sal_inside, 1, 299, 0
+534, franksclb02, frankiesbase, 1, 299, 0
+535, salvsdetail, sal_inside, 1, 299, 4
+536, SalvGarage, frankiesbase, 1, 299, 0
+537, trackshad07, trackshad, 1, 299, 68
+538, trackshad02, trackshad, 1, 299, 68
+539, trackshad03, trackshad, 1, 299, 68
+540, trackshad04, trackshad, 1, 299, 68
+541, trackshad05, trackshad, 1, 299, 68
+542, trackshad06, trackshad, 1, 299, 68
+543, trackshad01, trackshad, 1, 299, 68
+544, trackshad08, trackshad, 1, 299, 68
+545, trackshad09, trackshad, 1, 299, 68
+546, trackshad10, trackshad, 1, 299, 68
+547, trackshad11, trackshad, 1, 299, 68
+548, trackshad12, trackshad, 1, 299, 68
+549, trackshad13, trackshad, 1, 299, 68
+550, diortpass, dirtpass, 1, 299, 68
+551, LODhibuild1, indust2, 1, 3000, 0
+552, LOD_newtenement08, indust2, 1, 3000, 0
+553, LODhibuild4, indust2, 1, 3000, 0
+554, LODhibuild5, indust2, 1, 3000, 0
+555, LOD_newtenementx, indust2, 1, 3000, 0
+556, LOD_land131, indust2, 1, 3000, 0
+557, LODn_singbuild02, indust1, 1, 3000, 0
+558, ind_land141, indbeach, 1, 299, 0
+559, ind_land030, indbeach, 1, 299, 0
+560, LOD_land141, indust2, 1, 3000, 0
+561, ind_land049, indbeach, 1, 299, 0
+562, LOD_land049, indust2, 1, 3000, 0
+563, LOD_land057, indust2, 1, 3000, 0
+564, LOD_land058, indust2, 1, 3000, 0
+565, LOD_land033, indust2, 1, 3000, 0
+566, LOD_land030, indust2, 1, 3000, 0
+567, ammupoly, generic, 1, 1, 0
+568, LOD_firetower, indust1, 1, 3000, 0
+569, LODe_platform, indust2, 1, 3000, 0
+572, LODn_alleygun, indust1, 1, 3000, 0
+573, LODbakland, indust2, 1, 3000, 0
+574, LODn_block07, indust2, 1, 3000, 0
+575, LOD_land068, indust2, 1, 3000, 0
+576, LOD_land116, indust2, 1, 3000, 0
+577, ind_newbuilds01, Italynrth, 1, 299, 0
+578, LODn3block, indust2, 1, 3000, 0
+579, LOD_land034, indust2, 1, 3000, 0
+580, LODbigbuild, indust2, 1, 3000, 0
+581, treeshads05, trackshad, 1, 299, 68
+582, treeshads01, trackshad, 1, 299, 68
+583, treeshads02, trackshad, 1, 299, 68
+584, treeshads03, trackshad, 1, 299, 68
+585, treeshads04, trackshad, 1, 299, 68
+586, LOD_newrizzos, indust2, 1, 3000, 0
+587, LOD_newtenement06, indust2, 1, 3000, 0
+588, trackshad06b, trackshad, 1, 299, 68
+589, trackshad04b, trackshad, 1, 299, 68
+590, trackshad05a, trackshad, 1, 299, 68
+591, trackshad05b, trackshad, 1, 299, 68
+592, trackshad05cc, trackshad, 1, 299, 68
+593, LOD_land063i, indust1, 1, 3000, 0
+594, LOD_land100, indust1, 1, 3000, 0
+595, LODn_club01, indust1, 1, 3000, 0
+596, ind_land089a, generic, 1, 299, 0
+597, ind_land089b, 8balls, 1, 299, 0
+598, ind_land089c, 8balls, 1, 299, 0
+599, LOD_land089a, indust2, 1, 3000, 0
+600, LOD_land089b, indust2, 1, 3000, 0
+601, LODcrdlrbuild01, indust2, 1, 3000, 0
+602, trackshad14, trackshad, 1, 299, 68
+603, LOD_land097, indust2, 1, 3000, 0
+604, salvstrans, sal_inside, 1, 299, 4
+605, ind_maintglas, maindragn, 1, 299, 4
+606, indalleytransd, indalley, 1, 299, 68
+end
+tobj
+570, inwindows11, windowlit, 1, 3000, 12, 19, 4
+571, indwindows2, windowlit, 1, 3000, 12, 19, 3
+end
+path
+car, 459, ind_land059
+	2, 10, 0, 335, 1508, 27, 160, 1, 1
+	2, 2, 0, -269, -86, 19, 160, 1, 1
+	2, 3, 0, -109, 13, 31, 160, 1, 1
+	2, 4, 0, -14, 393, 19, 160, 1, 1
+	2, 5, 0, -130, 803, 19, 160, 1, 1
+	2, 6, 0, -191, 981, 19, 160, 1, 1
+	2, 7, 0, -161, 1151, 22, 160, 1, 1
+	2, 8, 0, 220, 1429, 24, 160, 1, 1
+	2, 0, 0, 258, 1519, 32, 160, 1, 1
+	1, 1, 0, -313, -87, 13, 160, 1, 0
+	1, -1, 0, 546, 1499, 26, 160, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 49, 29
+ped, 481, iten_alleygun
+	2, 7, 0, 442, -170, 12, 160, 1, 1
+	2, 2, 0, -432, -62, -65, 160, 1, 1
+	2, 3, 0, -406, -143, -65, 160, 1, 1
+	2, 4, 0, -212, -104, -65, 160, 1, 1
+	2, 5, 0, 225, -115, -65, 160, 1, 1
+	2, 0, 0, 401, -119, 11, 160, 1, 1
+	1, 1, 0, -438, 80, -67, 160, 1, 1
+	1, -1, 0, 436, -241, 12, 160, 1, 1
+	0, -1, 0, 0, 0, 0, 0, 1, 1
+	0, -1, 0, 0, 0, 0, 0, 1, 0
+	0, -1, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 49, 29
+ped, 567, ammupoly
+	2, 4, 0, 41, -42, 14, 160, 1, 1
+	2, 3, 0, 8, 70, 14, 160, 1, 1
+	2, 0, 0, 34, 3, 14, 160, 1, 1
+	1, -1, 0, -42, 95, 11, 160, 1, 1
+	1, 1, 0, 88, -50, 14, 160, 1, 1
+	0, -1, 0, 0, 0, 0, 0, 1, 1
+	0, -1, 0, 0, 0, 0, 0, 1, 1
+	0, -1, 0, 0, 0, 0, 0, 1, 1
+	0, -1, 0, 0, 0, 0, 0, 1, 1
+	0, -1, 0, 0, 0, 0, 0, 1, 0
+	0, -1, 0, 0, 0, 0, 0, 0, 1
+	0, -1, 0, 0, 0, 0, 0, 49, 29
+end
+2dfx
+437, -14.8516, 0.621445, 6.35923, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 6
+#
+469, -23.357, 1.774, 4.356, 170, 25, 0, 153, 0, "coronastar", "shad_exp", 200, 18, 8.5, 10, 60, 1, 0, 0, 4
+469, -4.85499, 17.79675, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 4
+469, -4.86089, 16.47324, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, -4.86089, 13.98942, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, -4.86089, 12.69826, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, -0.64799, 17.79675, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, -0.65389, 16.47324, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, -0.65389, 13.98942, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, -0.65389, 12.69826, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, 3.30306, 17.79675, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 4
+469, 3.29716, 16.47324, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, 3.29716, 13.98942, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, 3.29716, 12.69826, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, 7.66466, 17.79675, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, 7.65877, 16.47324, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, 7.65877, 13.98942, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, 7.65877, 12.69826, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, 7.66466, 8.49269, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, 7.65877, 7.16919, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, 7.65877, 4.68536, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, 7.65877, 3.39420, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, 3.29716, 3.39420, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 4
+469, 3.29716, 4.68536, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, 3.29716, 7.16919, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, 3.30306, 8.49269, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, -0.65389, 3.39420, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, -0.65389, 4.68536, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, -0.65389, 7.16919, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, -0.64799, 8.49269, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, -4.86089, 3.39420, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 4
+469, -4.86089, 4.68536, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, -4.86089, 7.16919, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+469, -4.85499, 8.49269, -0.69996, 255, 255, 255, 153, 0, "coronastar", "shad_exp", 100, 0, 0.7, 0, 40, 1, 0, 0, 0
+#
+521, 2.75712, -4.27566, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 0, 40, 1, 0, 0, 0
+521, 2.75712, -6.19163, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 0, 40, 1, 0, 0, 0
+521, 5.12520, -4.27566, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 0, 40, 1, 0, 0, 0
+521, 5.12520, -6.19163, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 0, 40, 1, 0, 0, 0
+521, 7.49328, -4.27566, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 0, 40, 1, 0, 0, 0
+521, 7.49328, -6.19163, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 0, 40, 1, 0, 0, 4
+521, 9.72956, -4.27566, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 0, 40, 1, 0, 0, 0
+521, 9.72956, -6.19163, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 0, 40, 1, 0, 0, 0
+521, 11.66578, -4.27566, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 0, 40, 1, 0, 0, 0
+521, 11.66578, -6.19163, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 0, 40, 1, 0, 0, 0
+521, -20.81421, 1.78343, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 3, 40, 1, 0, 0, 0
+521, -20.81421, 3.69939, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 3, 40, 1, 0, 0, 0
+521, -15.04169, 1.78343, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 3, 40, 1, 0, 0, 0
+521, -15.04169, 3.69939, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 3, 40, 1, 0, 0, 4
+521, -9.89219, 3.69939, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 3, 40, 1, 0, 0, 0
+521, -9.89219, 1.78343, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 3, 40, 1, 0, 0, 0
+521, -4.28987, 1.78343, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 3, 40, 1, 0, 0, 0
+521, -4.28987, 3.69939, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 3, 40, 1, 0, 0, 4
+521, 1.33496, 1.78343, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 3, 40, 1, 0, 0, 0
+521, 1.33496, 3.69939, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 3, 40, 1, 0, 0, 0
+521, 6.26033, 1.78343, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 3, 40, 1, 0, 0, 0
+521, 6.26033, 3.69939, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 3, 40, 1, 0, 0, 0
+521, 10.48147, 3.69939, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 3, 40, 1, 0, 0, 0
+521, 10.48147, 1.78343, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 3, 40, 1, 0, 0, 0
+521, 10.45845, 8.39947, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 3, 40, 1, 0, 0, 0
+521, 10.45845, 10.31543, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 3, 40, 1, 0, 0, 0
+521, 6.23732, 8.39947, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 3, 40, 1, 0, 0, 4
+521, 6.23732, 10.31543, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 3, 40, 1, 0, 0, 0
+521, 1.31195, 8.39947, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 3, 40, 1, 0, 0, 0
+521, 1.31195, 10.31543, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 3, 40, 1, 0, 0, 0
+521, -4.29888, 8.32390, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 3, 40, 1, 0, 0, 0
+521, -4.29888, 10.23986, 3.93953, 173, 159, 152, 153, 0, "coronastar", "shad_exp", 100, 9, 1.2, 3, 40, 1, 0, 0, 0
+#
+524, 5.28821, 4.42686, -0.268332, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0, 0, 40, 1, 0, 0, 2
+533, -3.80872, -0.66507, -1.8826, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 6, 0, 0, 40, 1, 0, 0, 0
+533, -0.0393066, -1.7334, -1.8826, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 0, 5, 0, 0, 40, 1, 0, 0, 0
+end
